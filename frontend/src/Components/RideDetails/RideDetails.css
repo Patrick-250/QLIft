@@ -1,0 +1,18 @@
+.ride-details {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+.ride-details h2 {
+  margin-top: 0;
+  color: #343a40;
+}
+
+.ride-details p {
+  margin: 10px 0;
+  color: #495057;
+}
